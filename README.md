@@ -2,7 +2,7 @@
 是一款与Win11媒体播放器界面一致却更加强大，支持网易云/酷狗/酷我的媒体播放器+。
 最低Win10 14393任何设备（Windows RT 10/Windows 10 Mobile也包含）# Screenshots
 
-Click on any thumbnail to view the full-size image.
+点击任意缩略图查看全尺寸图像.
 
 [<img src="https://github.com/user-attachments/assets/caca9437-56da-415c-b070-12c1d8b4899d" width="300">](https://github.com/user-attachments/assets/caca9437-56da-415c-b070-12c1d8b4899d)
 [<img src="https://github.com/user-attachments/assets/198e5f3d-629d-4b58-971b-77195b0f0bc6" width="300">](https://github.com/user-attachments/assets/198e5f3d-629d-4b58-971b-77195b0f0bc6)
