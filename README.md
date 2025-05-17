@@ -1,6 +1,8 @@
 # MediaPlayer+
 是一款与Win11媒体播放器界面一致却更加强大，支持网易云/酷狗/酷我的媒体播放器+。
-最低Win10 14393任何设备（Windows RT 10/Windows 10 Mobile也包含）# Screenshots
+最低Win10 14393任何设备（Windows RT 10/Windows 10 Mobile也包含）
+长按云音乐列表项目可以呼出多选模式和下载按钮。
+# Screenshots
 
 点击任意缩略图查看全尺寸图像.
 
